@@ -72,8 +72,8 @@ http://127.0.0.1:8050
 ## 👥 Team
 | Role | Tasks |
 |---|---|
-| Member 1 | Greedy NN · Branch & Bound · Complexity Analysis |
-| Member 2 | Clarke-Wright · 2-opt · Dashboard · Bengaluru Data |
+| Jeevan R Chavan | Greedy NN · Branch & Bound · Complexity Analysis |
+| Jeevith R Chavan | Clarke-Wright · 2-opt · Dashboard · Bengaluru Data |
 
 ---
 
